@@ -1,0 +1,51 @@
+
+
+body{
+    margin:0;
+
+}
+h1{
+    font-family: fantasy;
+/*    font-size: :3em;
+   border-bottom: 2px solid blue;
+    width: 400px;
+    text-align: center;
+    border-right:2px solid blue;
+    box-shadow: 4px 4px 4px 5px #888888;
+    */
+    
+    
+        
+}
+
+img{
+
+    width:200px;
+    height:600px;
+    
+    transition: all 1s;
+
+}
+img:hover{
+    transform: scale(1.1);
+}
+
+.Menu.Main.Div{
+    display:block;
+    
+    
+}
+li{
+    display: inline-block;
+    list-style: none;
+    margin:auto
+}
+
+.container{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content:center;\
+
+}
+
+
